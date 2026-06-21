@@ -1,0 +1,14 @@
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\StudentManagementSystem\bin\Debug\net9.0\StudentManagementSystem.exe
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\StudentManagementSystem\bin\Debug\net9.0\StudentManagementSystem.deps.json
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\StudentManagementSystem\bin\Debug\net9.0\StudentManagementSystem.runtimeconfig.json
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\StudentManagementSystem\bin\Debug\net9.0\StudentManagementSystem.dll
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\StudentManagementSystem\bin\Debug\net9.0\StudentManagementSystem.pdb
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\StudentManagementSystem\obj\Debug\net9.0\StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\StudentManagementSystem\obj\Debug\net9.0\StudentManagementSystem.AssemblyInfoInputs.cache
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\StudentManagementSystem\obj\Debug\net9.0\StudentManagementSystem.AssemblyInfo.cs
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\StudentManagementSystem\obj\Debug\net9.0\StudentManagementSystem.csproj.CoreCompileInputs.cache
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\StudentManagementSystem\obj\Debug\net9.0\StudentManagementSystem.dll
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\StudentManagementSystem\obj\Debug\net9.0\refint\StudentManagementSystem.dll
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\StudentManagementSystem\obj\Debug\net9.0\StudentManagementSystem.pdb
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\StudentManagementSystem\obj\Debug\net9.0\StudentManagementSystem.genruntimeconfig.cache
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\StudentManagementSystem\obj\Debug\net9.0\ref\StudentManagementSystem.dll
