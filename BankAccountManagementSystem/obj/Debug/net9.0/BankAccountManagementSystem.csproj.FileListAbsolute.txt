@@ -1,0 +1,15 @@
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\BankAccountManagementSystem\bin\Debug\net9.0\BankAccountManagementSystem.exe
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\BankAccountManagementSystem\bin\Debug\net9.0\BankAccountManagementSystem.deps.json
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\BankAccountManagementSystem\bin\Debug\net9.0\BankAccountManagementSystem.runtimeconfig.json
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\BankAccountManagementSystem\bin\Debug\net9.0\BankAccountManagementSystem.dll
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\BankAccountManagementSystem\bin\Debug\net9.0\BankAccountManagementSystem.pdb
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\BankAccountManagementSystem\obj\Debug\net9.0\BankAccountManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\BankAccountManagementSystem\obj\Debug\net9.0\BankAccountManagementSystem.AssemblyInfoInputs.cache
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\BankAccountManagementSystem\obj\Debug\net9.0\BankAccountManagementSystem.AssemblyInfo.cs
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\BankAccountManagementSystem\obj\Debug\net9.0\BankAccountManagementSystem.csproj.CoreCompileInputs.cache
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\BankAccountManagementSystem\obj\Debug\net9.0\BankAccountManagementSystem.sourcelink.json
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\BankAccountManagementSystem\obj\Debug\net9.0\BankAccountManagementSystem.dll
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\BankAccountManagementSystem\obj\Debug\net9.0\refint\BankAccountManagementSystem.dll
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\BankAccountManagementSystem\obj\Debug\net9.0\BankAccountManagementSystem.pdb
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\BankAccountManagementSystem\obj\Debug\net9.0\BankAccountManagementSystem.genruntimeconfig.cache
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\BankAccountManagementSystem\obj\Debug\net9.0\ref\BankAccountManagementSystem.dll
