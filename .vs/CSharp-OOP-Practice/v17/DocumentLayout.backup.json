@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,13 +25,9 @@
               "Name": "ST:7:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "VehicleManagementSystem.csproj",
+              "Title": "VehicleManagementSystem",
               "DocumentMoniker": "C:\\Kuldeep\\C#\\OOPS\\CSharp-OOP-Practice\\Projects\\VehicleManagementSystem\\VehicleManagementSystem.csproj",
               "RelativeDocumentMoniker": "Projects\\VehicleManagementSystem\\VehicleManagementSystem.csproj",
               "ToolTip": "C:\\Kuldeep\\C#\\OOPS\\CSharp-OOP-Practice\\Projects\\VehicleManagementSystem\\VehicleManagementSystem.csproj",
@@ -40,6 +36,10 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-07-01T01:04:31.738Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
