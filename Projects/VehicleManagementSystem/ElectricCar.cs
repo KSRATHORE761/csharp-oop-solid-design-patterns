@@ -15,9 +15,16 @@ public class ElectricCar : Car
         CurrentBatteryPercentage = !(currentBatteryPercentage < 0 || currentBatteryPercentage >100) ? currentBatteryPercentage : throw new ArgumentException(nameof(currentBatteryPercentage));
         EstimatedRange = (estimatedRage > 0) ? estimatedRage : throw new ArgumentException(nameof(estimatedRage));
     }
-    public void DisplayElectricCarDetails()
+
+    public override void Start()
     {
-        DisplayCarDetails();
+        Console.WriteLine("Checking Battery...");
+        Console.WriteLine("Starting Electric Car....");
+        base.Start();
+    }
+    public override void DisplayVehicleDetails()
+    {
+        base.DisplayVehicleDetails();
         Console.WriteLine("----------------------------------------------Displaying Electric Car Details---------------------------------------------");
         Console.WriteLine($"Battery Capacity :{BatteryCapacity}");
         Console.WriteLine($"Current Battery Percentage :{CurrentBatteryPercentage}");

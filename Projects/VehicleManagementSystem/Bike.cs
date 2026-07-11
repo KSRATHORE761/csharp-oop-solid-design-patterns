@@ -13,9 +13,15 @@ public class Bike : Vehicle
         HelmetStorageCapacity = helmetStorageCapacity>0 ? helmetStorageCapacity : throw new ArgumentOutOfRangeException(nameof(helmetStorageCapacity));
     }
 
-    public void DisplayBikeDetails()
+    public override void Start()
     {
-        DisplayVehicleDetails();
+        Console.WriteLine("Checking Side Stand...");
+        Console.WriteLine("Starting Bike....");
+        base.Start();
+    }
+    public override void DisplayVehicleDetails()
+    {
+        base.DisplayVehicleDetails();
         Console.WriteLine("------------------------Displaying Bike Details-------------------------");
         Console.WriteLine($"Engine Capacity :{EngineCapacity} cc");
         Console.WriteLine($"Has Side Stand : {HasSideStand}");

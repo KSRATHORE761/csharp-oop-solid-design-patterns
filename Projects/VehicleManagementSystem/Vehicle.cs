@@ -16,15 +16,15 @@ public class Vehicle
 
     public Vehicle(int vehicleId, string brand, string model, int year, string fuelType)
     {
-        VehicleId = vehicleId <= 0 ? throw new ArgumentOutOfRangeException(nameof(vehicleId),"Vehicle Id cannot be zero or less than zero") : vehicleId;
-        Brand = string.IsNullOrWhiteSpace(brand) ? throw new ArgumentNullException(nameof(brand),"Brand cannot be null or empty") : brand;
-        Model = string.IsNullOrWhiteSpace(model) ? throw new ArgumentNullException(nameof(model),"model cannot be null or empty") : model;
-        Year = !(year >= MinYear && year <= MaxYear) ? throw new ArgumentOutOfRangeException(nameof(year),"year should be within defined range") : year;
+        VehicleId = vehicleId <= 0 ? throw new ArgumentOutOfRangeException(nameof(vehicleId), "Vehicle Id cannot be zero or less than zero") : vehicleId;
+        Brand = string.IsNullOrWhiteSpace(brand) ? throw new ArgumentNullException(nameof(brand), "Brand cannot be null or empty") : brand;
+        Model = string.IsNullOrWhiteSpace(model) ? throw new ArgumentNullException(nameof(model), "model cannot be null or empty") : model;
+        Year = !(year >= MinYear && year <= MaxYear) ? throw new ArgumentOutOfRangeException(nameof(year), "year should be within defined range") : year;
         FuelType = string.IsNullOrWhiteSpace(fuelType)
             ? throw new ArgumentNullException(nameof(fuelType))
             : fuelType;
     }
-    public void Start()
+    public virtual void Start()
     {
 
         //ch
@@ -32,11 +32,8 @@ public class Vehicle
         {
             throw new InvalidOperationException("Vehicle is already started");
         }
-        else
-        {
-            IsStarted = true;
-            Console.WriteLine("Vehicle is started");
-        }
+        IsStarted = true;
+        Console.WriteLine("Vehicle is started");
     }
     public void Stop()
     {
@@ -73,7 +70,7 @@ public class Vehicle
             Console.WriteLine("Break applied on vehicle");
         }
     }
-    public void DisplayVehicleDetails()
+    public virtual void DisplayVehicleDetails()
     {
         Console.WriteLine("-------------Displaying Vehicle Details");
         Console.WriteLine($"Vehicle Id : {VehicleId}");

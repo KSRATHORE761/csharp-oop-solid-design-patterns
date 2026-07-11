@@ -16,9 +16,14 @@ public class Car : Vehicle
         HasSunRoof = hasSunRoof;
 
     }
-    public void DisplayCarDetails()
+    public override void Start()
     {
-        DisplayVehicleDetails(); 
+        Console.WriteLine("Starting Petrol Car....");
+        base.Start();
+    }
+    public override void DisplayVehicleDetails()
+    {
+        base.DisplayVehicleDetails(); 
 
         Console.WriteLine("------------------------------Car Details-----------------------------");
         Console.WriteLine($"Number of doors i car : {NumberOfDoors}");

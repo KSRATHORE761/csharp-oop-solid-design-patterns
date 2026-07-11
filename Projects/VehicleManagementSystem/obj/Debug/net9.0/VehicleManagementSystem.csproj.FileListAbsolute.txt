@@ -1,0 +1,15 @@
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\Projects\VehicleManagementSystem\bin\Debug\net9.0\VehicleManagementSystem.exe
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\Projects\VehicleManagementSystem\bin\Debug\net9.0\VehicleManagementSystem.deps.json
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\Projects\VehicleManagementSystem\bin\Debug\net9.0\VehicleManagementSystem.runtimeconfig.json
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\Projects\VehicleManagementSystem\bin\Debug\net9.0\VehicleManagementSystem.dll
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\Projects\VehicleManagementSystem\bin\Debug\net9.0\VehicleManagementSystem.pdb
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\Projects\VehicleManagementSystem\obj\Debug\net9.0\VehicleManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\Projects\VehicleManagementSystem\obj\Debug\net9.0\VehicleManagementSystem.AssemblyInfoInputs.cache
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\Projects\VehicleManagementSystem\obj\Debug\net9.0\VehicleManagementSystem.AssemblyInfo.cs
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\Projects\VehicleManagementSystem\obj\Debug\net9.0\VehicleManagementSystem.csproj.CoreCompileInputs.cache
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\Projects\VehicleManagementSystem\obj\Debug\net9.0\VehicleManagementSystem.sourcelink.json
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\Projects\VehicleManagementSystem\obj\Debug\net9.0\VehicleManagementSystem.dll
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\Projects\VehicleManagementSystem\obj\Debug\net9.0\refint\VehicleManagementSystem.dll
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\Projects\VehicleManagementSystem\obj\Debug\net9.0\VehicleManagementSystem.pdb
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\Projects\VehicleManagementSystem\obj\Debug\net9.0\VehicleManagementSystem.genruntimeconfig.cache
+c:\Kuldeep\C#\OOPS\CSharp-OOP-Practice\Projects\VehicleManagementSystem\obj\Debug\net9.0\ref\VehicleManagementSystem.dll
