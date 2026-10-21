@@ -542,7 +542,24 @@ Design a `Result<T>` class (success, value, error). When would you use it instea
 
 **Answer: `Result<T>`**
 
-A generic wrapper with `IsSuccess`, `Value`, `Error` (see the notes, section 14). Use it for **expected** failures (validation, not found, business rules), where exceptions would be slow and noisy. Keep exceptions for unexpected failures. The result is explicit, forces callers to handle failure, and is cheap.
+A generic wrapper with `IsSuccess`, `Value`, `Error`:
+
+```csharp
+public class Result<T>
+{
+    public bool IsSuccess { get; }
+    public T? Value { get; }
+    public string? Error { get; }
+
+    private Result(bool ok, T? value, string? error)
+        => (IsSuccess, Value, Error) = (ok, value, error);
+
+    public static Result<T> Success(T value) => new(true, value, null);
+    public static Result<T> Failure(string error) => new(false, default, error);
+}
+```
+
+Use it for **expected** failures (validation, not found, business rules), where exceptions would be slow and noisy. Keep exceptions for unexpected failures. The result is explicit, forces callers to handle failure, and is cheap.
 
 ---
 
